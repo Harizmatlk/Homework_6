@@ -1,0 +1,37 @@
+.container{
+  background-image: url(wallpaper.png);
+  flex-wrap: wrap;
+  gap: 40px;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Montserrat', sans-serif;
+  justify-content: center;
+}
+.compound_list{
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-position: inside;
+  margin-bottom: 25px;
+}
+.title{
+  background-image: url(wallpaper.png);
+  font-size: 70px;
+  font: Montserrat;
+  line-height: 78px;
+  margin-top: 220px;
+  margin-bottom: 110px;
+  text-align: center;
+  color: #515076;
+}
+.card_price{
+  font-size: 24px;
+  font-weight: bold;
+}
+.product_card{
+ width: 340px;
+  height: 573px;
+  padding: 25px;
+  margin: 22.5px auto;
+  background-color: #F7F7FA;
+  color:#515076;
+}
